@@ -1,8 +1,6 @@
 # Graffo
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
-[![GitHub issues](https://img.shields.io/github/issues/excelsi/graffo)](https://github.com/excelsi/graffo/issues)  
-[![GitHub stars](https://img.shields.io/github/stars/excelsi/graffo)](https://github.com/excelsi/graffo/stargazers)
 
 Graffo is an open-source interactive task management system that combines Markdown-based to-do lists with a dynamic graph visualization. It allows developers, teams, and individuals to organize tasks, visualize dependencies, and track progress in a unique, visual way.
 
